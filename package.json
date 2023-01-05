@@ -1,0 +1,19 @@
+{
+  "name": "341lesson01",
+  "version": "1.0.0",
+  "description": "Lesson 1 Code",
+  "main": "source.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdowns1999/341Lesson01.git"
+  },
+  "author": "Mike Downs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdowns1999/341Lesson01/issues"
+  },
+  "homepage": "https://github.com/mdowns1999/341Lesson01#readme"
+}
